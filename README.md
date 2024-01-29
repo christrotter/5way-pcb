@@ -1,6 +1,8 @@
 # 5way-pcb
 Simple breakout for a 5-way switch - or is it???  (yes, it is)
 
+20240129 - update, got 10 of these through JLCPCB and they work just fine.  The SKRHACE010 is quite small compared to what I have used in the past, but works great.
+
 ![](/images/multiwayinator.jpg)
 
 # features
